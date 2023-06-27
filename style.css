@@ -96,6 +96,7 @@ align-items: center;
     font-family: 'poppins';
     font-size: 23px;
     font-weight: 500;
+ padding:12px 0;
 }
 
 .headings p{
